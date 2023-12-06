@@ -1,0 +1,16 @@
+{
+  "name": "6Dec",
+  "type": "package",
+  "blockId": "Isk7QD05ZuzV26l4JBK4c",
+  "source": {
+    "https": null,
+    "ssh": null,
+    "branch": "block_6Dec"
+  },
+  "parentBlockIDs": [],
+  "isPublic": true,
+  "supportedAppblockVersions": [
+    "1.0.0"
+  ],
+  "repoType": "mono"
+}
