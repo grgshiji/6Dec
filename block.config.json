@@ -1,0 +1,20 @@
+{
+  "blockId": "ZEI-1kzs0T6oJnVaLBrlY",
+  "name": "Fn_Block1",
+  "type": "function",
+  "source": {
+    "https": "https://github.com/grgshiji/6Dec.git",
+    "ssh": "git@github.com:grgshiji/6Dec.git",
+    "branch": "block_Fn_Block1"
+  },
+  "parentBlockIDs": [
+    "Isk7QD05ZuzV26l4JBK4c"
+  ],
+  "repoType": "mono",
+  "language": "nodejs",
+  "supportedAppblockVersions": [
+    "1.0.0"
+  ],
+  "isPublic": true,
+  "start": "node index.js"
+}
