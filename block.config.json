@@ -12,5 +12,10 @@
   "supportedAppblockVersions": [
     "1.0.0"
   ],
-  "repoType": "mono"
+  "repoType": "mono",
+  "dependencies": {
+    "Fn_Block1": {
+      "directory": "Fn_Block1"
+    }
+  }
 }
