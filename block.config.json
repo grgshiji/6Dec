@@ -15,7 +15,10 @@
   "repoType": "mono",
   "dependencies": {
     "Fn_Block1": {
-      "directory": "Fn_Block1"
+      "directory": "Fn_Block1",
+      "versionId": "cTxdQa5NC2_wlacfKTHIB",
+      "version": "0.0.1"
     }
-  }
+  },
+  "version": "0.0.1"
 }
